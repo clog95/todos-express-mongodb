@@ -18,7 +18,7 @@ Clone this repository, then go into the app directory and install dependencies:
 
 ```bash
 $ git clone https://github.com/clog95/todos-express-mongodb.git
-$ cd todos-express-password
+$ cd todos-express-mongodb
 $ npm install
 ```
 
