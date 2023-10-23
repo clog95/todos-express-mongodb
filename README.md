@@ -17,7 +17,7 @@ Assuming you have installed MongoDB and Node.js on your computer.
 Clone this repository, then go into the app directory and install dependencies:
 
 ```bash
-$ git clone https://github.com/passport/todos-express-mongodb.git
+$ git clone https://github.com/clog95/todos-express-mongodb.git
 $ cd todos-express-password
 $ npm install
 ```
